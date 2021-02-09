@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Whatsapp-clone/static/css/main.8d9ef595.chunk.css",
+    "main.css": "/Whatsapp-clone/static/css/main.fb04c8bf.chunk.css",
     "main.js": "/Whatsapp-clone/static/js/main.8b1d3e9c.chunk.js",
     "main.js.map": "/Whatsapp-clone/static/js/main.8b1d3e9c.chunk.js.map",
     "runtime-main.js": "/Whatsapp-clone/static/js/runtime-main.c059da8a.js",
@@ -8,7 +8,7 @@
     "static/js/2.855923ac.chunk.js": "/Whatsapp-clone/static/js/2.855923ac.chunk.js",
     "static/js/2.855923ac.chunk.js.map": "/Whatsapp-clone/static/js/2.855923ac.chunk.js.map",
     "index.html": "/Whatsapp-clone/index.html",
-    "static/css/main.8d9ef595.chunk.css.map": "/Whatsapp-clone/static/css/main.8d9ef595.chunk.css.map",
+    "static/css/main.fb04c8bf.chunk.css.map": "/Whatsapp-clone/static/css/main.fb04c8bf.chunk.css.map",
     "static/js/2.855923ac.chunk.js.LICENSE.txt": "/Whatsapp-clone/static/js/2.855923ac.chunk.js.LICENSE.txt",
     "static/media/Conversation.css": "/Whatsapp-clone/static/media/background.60b3c65d.jpeg",
     "static/media/paola.739334aa.jpg": "/Whatsapp-clone/static/media/paola.739334aa.jpg",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.c059da8a.js",
     "static/js/2.855923ac.chunk.js",
-    "static/css/main.8d9ef595.chunk.css",
+    "static/css/main.fb04c8bf.chunk.css",
     "static/js/main.8b1d3e9c.chunk.js"
   ]
 }
