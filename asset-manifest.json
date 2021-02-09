@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Instagram-Clone/static/css/main.b965f6d4.chunk.css",
-    "main.js": "/Instagram-Clone/static/js/main.8b1d3e9c.chunk.js",
-    "main.js.map": "/Instagram-Clone/static/js/main.8b1d3e9c.chunk.js.map",
-    "runtime-main.js": "/Instagram-Clone/static/js/runtime-main.c32d672c.js",
-    "runtime-main.js.map": "/Instagram-Clone/static/js/runtime-main.c32d672c.js.map",
-    "static/js/2.855923ac.chunk.js": "/Instagram-Clone/static/js/2.855923ac.chunk.js",
-    "static/js/2.855923ac.chunk.js.map": "/Instagram-Clone/static/js/2.855923ac.chunk.js.map",
-    "index.html": "/Instagram-Clone/index.html",
-    "static/css/main.b965f6d4.chunk.css.map": "/Instagram-Clone/static/css/main.b965f6d4.chunk.css.map",
-    "static/js/2.855923ac.chunk.js.LICENSE.txt": "/Instagram-Clone/static/js/2.855923ac.chunk.js.LICENSE.txt",
-    "static/media/Conversation.css": "/Instagram-Clone/static/media/background.60b3c65d.jpeg",
-    "static/media/paola.739334aa.jpg": "/Instagram-Clone/static/media/paola.739334aa.jpg",
-    "static/media/parceiras.35e8a956.jpg": "/Instagram-Clone/static/media/parceiras.35e8a956.jpg",
-    "static/media/thomas.75435bb3.jpg": "/Instagram-Clone/static/media/thomas.75435bb3.jpg"
+    "main.css": "/Whatsapp-Clone/static/css/main.68b57502.chunk.css",
+    "main.js": "/Whatsapp-Clone/static/js/main.331b9428.chunk.js",
+    "main.js.map": "/Whatsapp-Clone/static/js/main.331b9428.chunk.js.map",
+    "runtime-main.js": "/Whatsapp-Clone/static/js/runtime-main.638874b4.js",
+    "runtime-main.js.map": "/Whatsapp-Clone/static/js/runtime-main.638874b4.js.map",
+    "static/js/2.855923ac.chunk.js": "/Whatsapp-Clone/static/js/2.855923ac.chunk.js",
+    "static/js/2.855923ac.chunk.js.map": "/Whatsapp-Clone/static/js/2.855923ac.chunk.js.map",
+    "index.html": "/Whatsapp-Clone/index.html",
+    "static/css/main.68b57502.chunk.css.map": "/Whatsapp-Clone/static/css/main.68b57502.chunk.css.map",
+    "static/js/2.855923ac.chunk.js.LICENSE.txt": "/Whatsapp-Clone/static/js/2.855923ac.chunk.js.LICENSE.txt",
+    "static/media/Conversation.css": "/Whatsapp-Clone/static/media/background.60b3c65d.jpeg",
+    "static/media/paola.739334aa.jpg": "/Whatsapp-Clone/static/media/paola.739334aa.jpg",
+    "static/media/parceiras.35e8a956.jpg": "/Whatsapp-Clone/static/media/parceiras.35e8a956.jpg",
+    "static/media/thomas.75435bb3.jpg": "/Whatsapp-Clone/static/media/thomas.75435bb3.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c32d672c.js",
+    "static/js/runtime-main.638874b4.js",
     "static/js/2.855923ac.chunk.js",
-    "static/css/main.b965f6d4.chunk.css",
-    "static/js/main.8b1d3e9c.chunk.js"
+    "static/css/main.68b57502.chunk.css",
+    "static/js/main.331b9428.chunk.js"
   ]
 }
