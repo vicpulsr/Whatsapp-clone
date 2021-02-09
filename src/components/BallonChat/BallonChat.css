@@ -1,0 +1,40 @@
+.ballon-chat {
+    background: #146162;
+    border-radius: 6px;
+    color: white;
+    max-width: 200px;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    margin: 1px 10px;
+    word-break: break-all;
+    text-align: left;
+    padding: 1px 5px;
+}
+
+.ballon-chat div {
+    color: #5c959c;
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.ballon-chat div span {
+    margin-right: 5px;
+}
+
+.received {
+   background: #3c3c3e;
+   display: flex;
+   justify-content: flex-start;
+   align-self: flex-start;
+   margin-top: 15px;
+   width: auto;
+   max-width: 200px;
+   padding: 4px;
+}
+
+.received div {
+    color: #79797b;
+}
