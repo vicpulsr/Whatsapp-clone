@@ -1,7 +1,11 @@
 #root {
-  max-width: 400px;
+  max-width: 374px;
   box-shadow: 1px 1px 10px -3px;
   margin: 0 auto;
+}
+
+body {
+  background: #000000ed;
 }
 
 .App {
