@@ -101,6 +101,7 @@ html, body, #root, .home, .App {
     align-items: center;
     padding: 10px;
     font-size: 14px;
+    position: relative;
 }
 
 .footer path {
@@ -111,11 +112,11 @@ html, body, #root, .home, .App {
     color: white;
     background: red;
     border-radius: 50px;
-    position: fixed;
+    position: absolute;
     font-size: 15px;
     width: 24px;
     height: 20px;
-    right: 418px;
+    right: 15px;
 }
 
 .chat-focused {
