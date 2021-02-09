@@ -6,7 +6,7 @@ import Conversation from './pages/Conversation/Conversation';
 
 function Routes() {
     return (
-        <BrowserRouter basename="/whatsapp-clone">
+        <BrowserRouter basename="/Whatsapp-clone">
             <Switch>
                 <Route path="/" exact>
                     <Home />
